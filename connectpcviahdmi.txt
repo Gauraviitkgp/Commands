@@ -1,0 +1,9 @@
+try these commands if they work
+
+xrandr --output TMDS-1 --auto
+
+xrandr --output HDMI3 --auto
+
+xrandr --output HDMI1 --mode 1920x1080i
+xrandr --output HDMI1 --mode 1280x720
+xrandr --output HDMI1 --mode 1024x768 --rate 60

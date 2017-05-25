@@ -6,3 +6,7 @@ sudo arp-scan --interface=eth0 --localnet
 
 ipconfig
 --our ip address
+
+
+nmap -sL 192.168.0.* 
+will list all the ip's in my network with initials 192.168.0.* t. Firstly see ifconfig to get yr msg
